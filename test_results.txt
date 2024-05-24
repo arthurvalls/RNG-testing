@@ -41,4 +41,47 @@ random_excursion_test                    0.247782610978812  PASS
 random_excursion_variant_test            0.11841279988976117 PASS
 
 
+OS:
+
+SUMMARY
+-------
+monobit_test                             0.7041559884049895 PASS
+frequency_within_block_test              0.5637519463874059 PASS
+runs_test                                0.3918001733365396 PASS
+longest_run_ones_in_a_block_test         0.27316795003241595 PASS
+binary_matrix_rank_test                  0.03867895968944739 PASS
+dft_test                                 0.4342690840297489 PASS
+non_overlapping_template_matching_test   0.999992672025933  PASS
+overlapping_template_matching_test       0.4176030352181234 PASS
+maurers_universal_test                   0.5870176485658896 PASS
+linear_complexity_test                   0.004292086270314747 FAIL
+serial_test                              0.1620744121694078 PASS
+approximate_entropy_test                 0.16214648372791982 PASS
+cumulative_sums_test                     0.7421582321444102 PASS
+random_excursion_test                    0.18170949076408466 PASS
+random_excursion_variant_test            0.2296780767992129 PASS
+
+PSO:
+
+SUMMARY
+-------
+monobit_test                             0.7772974107895215 PASS
+frequency_within_block_test              0.998434296101267  PASS
+runs_test                                0.46125797887895814 PASS
+longest_run_ones_in_a_block_test         0.6222235254107447 PASS
+binary_matrix_rank_test                  0.3042714560235986 PASS
+dft_test                                 0.8355073996699607 PASS
+non_overlapping_template_matching_test   1.001443931502838  PASS
+overlapping_template_matching_test       0.9121439052639134 PASS
+maurers_universal_test                   0.9284760463902099 PASS
+linear_complexity_test                   0.12421461667833308 PASS
+serial_test                              0.7227206073853373 PASS
+approximate_entropy_test                 0.7599687076908709 PASS
+cumulative_sums_test                     0.823778331133888  PASS
+random_excursion_test                    0.08587214126356223 PASS
+random_excursion_variant_test            0.012995884780436767 PASS
+
+
+
+
 
