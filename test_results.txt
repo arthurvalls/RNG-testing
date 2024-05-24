@@ -1,0 +1,44 @@
+FORTUNA:
+
+SUMMARY
+-------
+monobit_test                             0.2946386068817432 PASS
+frequency_within_block_test              0.7032266413107591 PASS
+runs_test                                0.5061129037877993 PASS
+longest_run_ones_in_a_block_test         0.07126662664092913 PASS
+binary_matrix_rank_test                  0.41220447555505146 PASS
+dft_test                                 0.8688028353193417 PASS
+non_overlapping_template_matching_test   0.9999434389052023 PASS
+overlapping_template_matching_test       0.7167066625145646              FAIL
+maurers_universal_test                   0.7066719799760678 PASS
+linear_complexity_test                   0.5895080800179835 PASS
+serial_test                              0.5153331046600836 PASS
+approximate_entropy_test                 0.740794957838768  PASS
+cumulative_sums_test                     0.3675621117641168 PASS
+random_excursion_test                    0.21613575490713685 PASS
+random_excursion_variant_test            0.4039064250130682 PASS
+
+
+NUMPY:
+
+
+SUMMARY
+-------
+monobit_test                             0.8624618706440484 PASS
+frequency_within_block_test              0.5723777924345216 PASS
+runs_test                                0.1203030147645023 PASS
+longest_run_ones_in_a_block_test         0.7769898845072255 PASS
+binary_matrix_rank_test                  0.890316096188681  PASS
+dft_test                                 0.7018365073962303 PASS
+non_overlapping_template_matching_test   1.0000085441935112 PASS
+overlapping_template_matching_test       0.7567066625145646 PASS
+maurers_universal_test                   0.34618162564337757 PASS
+linear_complexity_test                   0.870125188732929  PASS
+serial_test                              0.8110438884372981 PASS
+approximate_entropy_test                 0.810850412752456  PASS
+cumulative_sums_test                     0.7724780263023368 PASS
+random_excursion_test                    0.247782610978812  PASS
+random_excursion_variant_test            0.11841279988976117 PASS
+
+
+
