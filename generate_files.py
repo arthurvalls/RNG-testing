@@ -38,8 +38,7 @@ def generate_pso_sequence(length):
     return random_bytes
 
 def generate_os_sequence(length):
-    binary_numbers = [int.from_bytes(os.urandom(1), byteorder='big') % 2 for _ in range(length)]
-    os_sequence = bytes(binary_numbers)
+    os_sequence = os.urandom(length)
     return os_sequence
 
 sequence_length = 1_000_000
