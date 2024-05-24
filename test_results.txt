@@ -82,6 +82,28 @@ random_excursion_test                    0.08587214126356223 PASS
 random_excursion_variant_test            0.012995884780436767 PASS
 
 
+XOR:
+
+
+SUMMARY
+-------
+monobit_test                             0.9521556346917863 PASS
+frequency_within_block_test              0.5453187107108446 PASS
+runs_test                                0.11641427244235385 PASS
+longest_run_ones_in_a_block_test         0.3200666876436551 PASS
+binary_matrix_rank_test                  0.9105947999987611 PASS
+dft_test                                 0.02455871132665136 PASS
+non_overlapping_template_matching_test   1.000001109549806  PASS
+overlapping_template_matching_test       0.0                FAIL
+maurers_universal_test                   0.35168585838560096 PASS
+linear_complexity_test                   0.2110030253874    PASS
+serial_test                              0.018984059786093924 PASS
+approximate_entropy_test                 0.051166414742374794 PASS
+cumulative_sums_test                     0.7820847647878382 PASS
+random_excursion_test                    0.12491135527096912 PASS
+random_excursion_variant_test            0.16950902538212384 PASS
+
+
 
 
 
